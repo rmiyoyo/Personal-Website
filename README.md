@@ -12,4 +12,17 @@ This is a personal website I am building while learning new web development tech
 - C++
 - Frontend Development
 - Bootstrap
-- Vanilla Javascript
+- Javascript
+- React
+
+## Results
+TO-DO
+
+## Conclusion
+TO-DO
+
+## Licence
+This project is licenced under MIT Licence
+
+## Contributing
+Open a pull request with your changes if you would like to contribute. I try to respond ASAP. You can also DM me on [Twitter](https://twitter.com/r_miyoyo).
