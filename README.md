@@ -1,6 +1,6 @@
 # Personal Website
 
-This is a personal website I am building while learning new web development technologies. The knowledge acquired is applied to the project on the go. Plan is to start by hosting it on Github pages and then maybe get a domain name.
+Personal website showcase skills(public resume), talk about open source projects I am involved in and other things I will find interesting. Building while learning new web development technologies. The knowledge acquired is applied to the project on the go. Plan is to start by hosting it on Github pages and then maybe get a domain name.
 
 ## Images
 
